@@ -1,0 +1,990 @@
+<svg width="344" height="346" viewBox="0 0 344 346" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2085661236">
+<g id="Group 2085661225_2">
+<line id="Line 1348_6" y1="11.75" x2="11.1083" y2="11.75" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property0" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 11.1083px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property0;"></line>
+<line id="Line 1356_6" y1="-1" x2="11.1083" y2="-1" transform="matrix(1 0 0 -1 0 333.458)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property1" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 11.1083px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property1;"></line>
+<line id="Line 1349_6" y1="33.25" x2="30.4583" y2="33.25" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property2" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 30.4583px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property2;"></line>
+<line id="Line 1357_6" y1="-1" x2="30.4583" y2="-1" transform="matrix(1 0 0 -1 0 311.958)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property3" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 30.4583px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property3;"></line>
+<line id="Line 1350_6" y1="54.75" x2="51.6" y2="54.75" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property4" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 51.6px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property4;"></line>
+<line id="Line 1358_6" y1="-1" x2="51.6" y2="-1" transform="matrix(1 0 0 -1 0 290.458)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property5" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 51.6px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property5;"></line>
+<line id="Line 1351_6" y1="76.25" x2="72.025" y2="76.25" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property6" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 72.025px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property6;"></line>
+<line id="Line 1359_6" y1="-1" x2="72.025" y2="-1" transform="matrix(1 0 0 -1 0 268.958)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property7" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 72.025px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property7;"></line>
+<line id="Line 1352_6" y1="97.75" x2="93.525" y2="97.75" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property8" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 93.525px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property8;"></line>
+<line id="Line 1360_6" y1="-1" x2="93.525" y2="-1" transform="matrix(1 0 0 -1 0 247.458)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property9" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 93.525px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property9;"></line>
+<line id="Line 1353_6" y1="119.25" x2="114.308" y2="119.25" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property10" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 114.308px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property10;"></line>
+<line id="Line 1361_6" y1="-1" x2="114.308" y2="-1" transform="matrix(1 0 0 -1 0 225.958)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property11" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 114.308px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property11;"></line>
+<line id="Line 1354_6" y1="140.75" x2="135.092" y2="140.75" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property12" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 135.092px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property12;"></line>
+<line id="Line 1362_6" y1="-1" x2="135.092" y2="-1" transform="matrix(1 0 0 -1 0 204.458)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property13" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 135.092px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property13;"></line>
+<line id="Line 1355_6" y1="162.25" x2="155.875" y2="162.25" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property14" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 155.875px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property14;"></line>
+<line id="Line 1363_6" y1="-1" x2="155.875" y2="-1" transform="matrix(1 0 0 -1 0 182.958)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property15" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 155.875px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property15;"></line>
+</g>
+<g id="Group 2085661226_2">
+<line id="Line 1348_2_2" x1="172" y1="11.75" x2="183.108" y2="11.75" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property16" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 11.108px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property16;"></line>
+<line id="Line 1356_2_2" y1="-1" x2="11.1083" y2="-1" transform="matrix(1 0 0 -1 172 333.458)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property17" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 11.1083px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property17;"></line>
+<line id="Line 1349_2_2" x1="172" y1="33.25" x2="202.458" y2="33.25" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property18" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 30.458px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property18;"></line>
+<line id="Line 1357_2_2" y1="-1" x2="30.4583" y2="-1" transform="matrix(1 0 0 -1 172 311.958)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property19" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 30.4583px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property19;"></line>
+<line id="Line 1350_2_2" x1="172" y1="54.75" x2="223.6" y2="54.75" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property20" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 51.6px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property20;"></line>
+<line id="Line 1358_2_2" y1="-1" x2="51.6" y2="-1" transform="matrix(1 0 0 -1 172 290.458)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property21" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 51.6px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property21;"></line>
+<line id="Line 1351_2_2" x1="172" y1="76.25" x2="244.025" y2="76.25" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property22" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 72.025px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property22;"></line>
+<line id="Line 1359_2_2" y1="-1" x2="72.025" y2="-1" transform="matrix(1 0 0 -1 172 268.958)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property23" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 72.025px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property23;"></line>
+<line id="Line 1352_2_2" x1="172" y1="97.75" x2="265.525" y2="97.75" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property24" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 93.525px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property24;"></line>
+<line id="Line 1360_2_2" y1="-1" x2="93.525" y2="-1" transform="matrix(1 0 0 -1 172 247.458)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property25" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 93.525px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property25;"></line>
+<line id="Line 1353_2_2" x1="172" y1="119.25" x2="286.308" y2="119.25" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property26" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 114.308px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property26;"></line>
+<line id="Line 1361_2_2" y1="-1" x2="114.308" y2="-1" transform="matrix(1 0 0 -1 172 225.958)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property27" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 114.308px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property27;"></line>
+<line id="Line 1354_2_2" x1="172" y1="140.75" x2="307.092" y2="140.75" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property28" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 135.092px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property28;"></line>
+<line id="Line 1362_2_2" y1="-1" x2="135.092" y2="-1" transform="matrix(1 0 0 -1 172 204.458)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property29" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 135.092px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property29;"></line>
+<line id="Line 1355_2_2" x1="172" y1="162.25" x2="327.875" y2="162.25" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property30" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 155.875px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property30;"></line>
+<line id="Line 1363_2_2" y1="-1" x2="155.875" y2="-1" transform="matrix(1 0 0 -1 172 182.958)" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property31" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 155.875px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property31;"></line>
+</g>
+<g id="Group 2085661222_2">
+<line id="Line 1303_5" y1="1" x2="344" y2="1" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property32" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property32;"></line>
+<line id="Line 1304_5" y1="22.5" x2="344" y2="22.5" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property33" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property33;"></line>
+<line id="Line 1305_5" y1="44" x2="344" y2="44" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property34" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property34;"></line>
+<line id="Line 1306_5" y1="65.5" x2="344" y2="65.5" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property35" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property35;"></line>
+<line id="Line 1307_5" y1="87" x2="344" y2="87" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property36" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property36;"></line>
+<line id="Line 1308_5" y1="108.5" x2="344" y2="108.5" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property37" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property37;"></line>
+<line id="Line 1309_5" y1="130" x2="344" y2="130" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property38" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property38;"></line>
+<line id="Line 1310_5" y1="151.5" x2="344" y2="151.5" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property39" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property39;"></line>
+<line id="Line 1311_5" y1="173" x2="344" y2="173" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property40" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property40;"></line>
+<line id="Line 1312_5" y1="194.5" x2="344" y2="194.5" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property41" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property41;"></line>
+<line id="Line 1313_5" y1="216" x2="344" y2="216" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property42" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property42;"></line>
+<line id="Line 1314_5" y1="237.5" x2="344" y2="237.5" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property43" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property43;"></line>
+<line id="Line 1315_5" y1="259" x2="344" y2="259" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property44" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property44;"></line>
+<line id="Line 1316_5" y1="280.5" x2="344" y2="280.5" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property45" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property45;"></line>
+<line id="Line 1317_5" y1="302" x2="344" y2="302" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property46" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property46;"></line>
+<line id="Line 1318_5" y1="323.5" x2="344" y2="323.5" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property47" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property47;"></line>
+<line id="Line 1319_5" y1="345" x2="344" y2="345" stroke="#0017FF" stroke-width="2" class="id_anim_stroke-property48" data-duration="1.6666666666666667" data-offset="0" style="stroke-dashoffset: 0px; stroke-dasharray: 0px, 344px; animation: 1.66667s linear 0s 1 normal forwards running id_anim_stroke-property48;"></line>
+</g>
+</g>
+<style>
+        @keyframes id_anim_stroke-property0{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 11.10830020904541px;
+            }
+        
+            50%{
+                stroke-dashoffset: -5.554150104522705px; 
+        stroke-dasharray: 5.554150104522705px, 5.554150104522705px;
+            }
+        
+            100%{
+                stroke-dashoffset: -11.10830020904541px; 
+        stroke-dasharray: 11.10830020904541px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property1{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 11.10830020904541px;
+            }
+        
+            50%{
+                stroke-dashoffset: -5.554150104522705px; 
+        stroke-dasharray: 5.554150104522705px, 5.554150104522705px;
+            }
+        
+            100%{
+                stroke-dashoffset: -11.10830020904541px; 
+        stroke-dasharray: 11.10830020904541px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property2{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 30.45829963684082px;
+            }
+        
+            50%{
+                stroke-dashoffset: -15.22914981842041px; 
+        stroke-dasharray: 15.22914981842041px, 15.22914981842041px;
+            }
+        
+            100%{
+                stroke-dashoffset: -30.45829963684082px; 
+        stroke-dasharray: 30.45829963684082px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property3{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 30.45829963684082px;
+            }
+        
+            50%{
+                stroke-dashoffset: -15.22914981842041px; 
+        stroke-dasharray: 15.22914981842041px, 15.22914981842041px;
+            }
+        
+            100%{
+                stroke-dashoffset: -30.45829963684082px; 
+        stroke-dasharray: 30.45829963684082px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property4{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 51.599998474121094px;
+            }
+        
+            50%{
+                stroke-dashoffset: -25.799999237060547px; 
+        stroke-dasharray: 25.799999237060547px, 25.799999237060547px;
+            }
+        
+            100%{
+                stroke-dashoffset: -51.599998474121094px; 
+        stroke-dasharray: 51.599998474121094px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property5{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 51.599998474121094px;
+            }
+        
+            50%{
+                stroke-dashoffset: -25.799999237060547px; 
+        stroke-dasharray: 25.799999237060547px, 25.799999237060547px;
+            }
+        
+            100%{
+                stroke-dashoffset: -51.599998474121094px; 
+        stroke-dasharray: 51.599998474121094px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property6{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 72.0250015258789px;
+            }
+        
+            50%{
+                stroke-dashoffset: -36.01250076293945px; 
+        stroke-dasharray: 36.01250076293945px, 36.01250076293945px;
+            }
+        
+            100%{
+                stroke-dashoffset: -72.0250015258789px; 
+        stroke-dasharray: 72.0250015258789px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property7{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 72.0250015258789px;
+            }
+        
+            50%{
+                stroke-dashoffset: -36.01250076293945px; 
+        stroke-dasharray: 36.01250076293945px, 36.01250076293945px;
+            }
+        
+            100%{
+                stroke-dashoffset: -72.0250015258789px; 
+        stroke-dasharray: 72.0250015258789px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property8{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 93.5250015258789px;
+            }
+        
+            50%{
+                stroke-dashoffset: -46.76250076293945px; 
+        stroke-dasharray: 46.76250076293945px, 46.76250076293945px;
+            }
+        
+            100%{
+                stroke-dashoffset: -93.5250015258789px; 
+        stroke-dasharray: 93.5250015258789px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property9{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 93.5250015258789px;
+            }
+        
+            50%{
+                stroke-dashoffset: -46.76250076293945px; 
+        stroke-dasharray: 46.76250076293945px, 46.76250076293945px;
+            }
+        
+            100%{
+                stroke-dashoffset: -93.5250015258789px; 
+        stroke-dasharray: 93.5250015258789px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property10{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 114.30799865722656px;
+            }
+        
+            50%{
+                stroke-dashoffset: -57.15399932861328px; 
+        stroke-dasharray: 57.15399932861328px, 57.15399932861328px;
+            }
+        
+            100%{
+                stroke-dashoffset: -114.30799865722656px; 
+        stroke-dasharray: 114.30799865722656px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property11{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 114.30799865722656px;
+            }
+        
+            50%{
+                stroke-dashoffset: -57.15399932861328px; 
+        stroke-dasharray: 57.15399932861328px, 57.15399932861328px;
+            }
+        
+            100%{
+                stroke-dashoffset: -114.30799865722656px; 
+        stroke-dasharray: 114.30799865722656px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property12{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 135.0919952392578px;
+            }
+        
+            50%{
+                stroke-dashoffset: -67.5459976196289px; 
+        stroke-dasharray: 67.5459976196289px, 67.5459976196289px;
+            }
+        
+            100%{
+                stroke-dashoffset: -135.0919952392578px; 
+        stroke-dasharray: 135.0919952392578px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property13{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 135.0919952392578px;
+            }
+        
+            50%{
+                stroke-dashoffset: -67.5459976196289px; 
+        stroke-dasharray: 67.5459976196289px, 67.5459976196289px;
+            }
+        
+            100%{
+                stroke-dashoffset: -135.0919952392578px; 
+        stroke-dasharray: 135.0919952392578px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property14{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 155.875px;
+            }
+        
+            50%{
+                stroke-dashoffset: -77.9375px; 
+        stroke-dasharray: 77.9375px, 77.9375px;
+            }
+        
+            100%{
+                stroke-dashoffset: -155.875px; 
+        stroke-dasharray: 155.875px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property15{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 155.875px;
+            }
+        
+            50%{
+                stroke-dashoffset: -77.9375px; 
+        stroke-dasharray: 77.9375px, 77.9375px;
+            }
+        
+            100%{
+                stroke-dashoffset: -155.875px; 
+        stroke-dasharray: 155.875px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property16{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 11.108001708984375px;
+            }
+        
+            50%{
+                stroke-dashoffset: -5.5540008544921875px; 
+        stroke-dasharray: 5.5540008544921875px, 5.5540008544921875px;
+            }
+        
+            100%{
+                stroke-dashoffset: -11.108001708984375px; 
+        stroke-dasharray: 11.108001708984375px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property17{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 11.10830020904541px;
+            }
+        
+            50%{
+                stroke-dashoffset: -5.554150104522705px; 
+        stroke-dasharray: 5.554150104522705px, 5.554150104522705px;
+            }
+        
+            100%{
+                stroke-dashoffset: -11.10830020904541px; 
+        stroke-dasharray: 11.10830020904541px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property18{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 30.457992553710938px;
+            }
+        
+            50%{
+                stroke-dashoffset: -15.228996276855469px; 
+        stroke-dasharray: 15.228996276855469px, 15.228996276855469px;
+            }
+        
+            100%{
+                stroke-dashoffset: -30.457992553710938px; 
+        stroke-dasharray: 30.457992553710938px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property19{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 30.45829963684082px;
+            }
+        
+            50%{
+                stroke-dashoffset: -15.22914981842041px; 
+        stroke-dasharray: 15.22914981842041px, 15.22914981842041px;
+            }
+        
+            100%{
+                stroke-dashoffset: -30.45829963684082px; 
+        stroke-dasharray: 30.45829963684082px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property20{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 51.600006103515625px;
+            }
+        
+            50%{
+                stroke-dashoffset: -25.800003051757812px; 
+        stroke-dasharray: 25.800003051757812px, 25.800003051757812px;
+            }
+        
+            100%{
+                stroke-dashoffset: -51.600006103515625px; 
+        stroke-dasharray: 51.600006103515625px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property21{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 51.599998474121094px;
+            }
+        
+            50%{
+                stroke-dashoffset: -25.799999237060547px; 
+        stroke-dasharray: 25.799999237060547px, 25.799999237060547px;
+            }
+        
+            100%{
+                stroke-dashoffset: -51.599998474121094px; 
+        stroke-dasharray: 51.599998474121094px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property22{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 72.02499389648438px;
+            }
+        
+            50%{
+                stroke-dashoffset: -36.01249694824219px; 
+        stroke-dasharray: 36.01249694824219px, 36.01249694824219px;
+            }
+        
+            100%{
+                stroke-dashoffset: -72.02499389648438px; 
+        stroke-dasharray: 72.02499389648438px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property23{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 72.0250015258789px;
+            }
+        
+            50%{
+                stroke-dashoffset: -36.01250076293945px; 
+        stroke-dasharray: 36.01250076293945px, 36.01250076293945px;
+            }
+        
+            100%{
+                stroke-dashoffset: -72.0250015258789px; 
+        stroke-dasharray: 72.0250015258789px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property24{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 93.52499389648438px;
+            }
+        
+            50%{
+                stroke-dashoffset: -46.76249694824219px; 
+        stroke-dasharray: 46.76249694824219px, 46.76249694824219px;
+            }
+        
+            100%{
+                stroke-dashoffset: -93.52499389648438px; 
+        stroke-dasharray: 93.52499389648438px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property25{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 93.5250015258789px;
+            }
+        
+            50%{
+                stroke-dashoffset: -46.76250076293945px; 
+        stroke-dasharray: 46.76250076293945px, 46.76250076293945px;
+            }
+        
+            100%{
+                stroke-dashoffset: -93.5250015258789px; 
+        stroke-dasharray: 93.5250015258789px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property26{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 114.30801391601562px;
+            }
+        
+            50%{
+                stroke-dashoffset: -57.15400695800781px; 
+        stroke-dasharray: 57.15400695800781px, 57.15400695800781px;
+            }
+        
+            100%{
+                stroke-dashoffset: -114.30801391601562px; 
+        stroke-dasharray: 114.30801391601562px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property27{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 114.30799865722656px;
+            }
+        
+            50%{
+                stroke-dashoffset: -57.15399932861328px; 
+        stroke-dasharray: 57.15399932861328px, 57.15399932861328px;
+            }
+        
+            100%{
+                stroke-dashoffset: -114.30799865722656px; 
+        stroke-dasharray: 114.30799865722656px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property28{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 135.09201049804688px;
+            }
+        
+            50%{
+                stroke-dashoffset: -67.54600524902344px; 
+        stroke-dasharray: 67.54600524902344px, 67.54600524902344px;
+            }
+        
+            100%{
+                stroke-dashoffset: -135.09201049804688px; 
+        stroke-dasharray: 135.09201049804688px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property29{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 135.0919952392578px;
+            }
+        
+            50%{
+                stroke-dashoffset: -67.5459976196289px; 
+        stroke-dasharray: 67.5459976196289px, 67.5459976196289px;
+            }
+        
+            100%{
+                stroke-dashoffset: -135.0919952392578px; 
+        stroke-dasharray: 135.0919952392578px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property30{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 155.875px;
+            }
+        
+            50%{
+                stroke-dashoffset: -77.9375px; 
+        stroke-dasharray: 77.9375px, 77.9375px;
+            }
+        
+            100%{
+                stroke-dashoffset: -155.875px; 
+        stroke-dasharray: 155.875px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property31{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 155.875px;
+            }
+        
+            50%{
+                stroke-dashoffset: -77.9375px; 
+        stroke-dasharray: 77.9375px, 77.9375px;
+            }
+        
+            100%{
+                stroke-dashoffset: -155.875px; 
+        stroke-dasharray: 155.875px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property32{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property33{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property34{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property35{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property36{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property37{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property38{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property39{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property40{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property41{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property42{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property43{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property44{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property45{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property46{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property47{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+         
+        @keyframes id_anim_stroke-property48{
+        
+            0%{
+                stroke-dashoffset: 0px; 
+        stroke-dasharray: 0px, 344px;
+            }
+        
+            50%{
+                stroke-dashoffset: -172px; 
+        stroke-dasharray: 172px, 172px;
+            }
+        
+            100%{
+                stroke-dashoffset: -344px; 
+        stroke-dasharray: 344px, 0px;
+            }
+        
+        }
+        </style></svg>

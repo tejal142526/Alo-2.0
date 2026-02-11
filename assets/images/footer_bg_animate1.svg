@@ -1,0 +1,65 @@
+   <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1200 400"
+      preserveAspectRatio="none"
+    >
+      <defs>
+        <pattern
+          id="stripePattern"
+          patternUnits="userSpaceOnUse"
+          width="10"
+          height="400"
+        >
+          <rect width="4" height="400" fill="#00008A" />
+          <rect x="4" width="6" height="400" fill="#0013D2" />
+        </pattern>
+      </defs>
+
+      <!-- Row 1 -->
+      <rect y="0" width="2400" height="100" fill="url(#stripePattern)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="-1200 0"
+          to="0 0"
+          dur="50s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <!-- Row 2 -->
+      <rect y="100" width="2400" height="100" fill="url(#stripePattern)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="0 0"
+          to="-1200 0"
+          dur="50s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <!-- Row 3 -->
+      <rect y="200" width="2400" height="100" fill="url(#stripePattern)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="-1200 0"
+          to="0 0"
+          dur="50s"
+          repeatCount="indefinite"
+        />
+      </rect>
+
+      <!-- Row 4 -->
+      <rect y="300" width="2400" height="100" fill="url(#stripePattern)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="0 0"
+          to="-1200 0"
+          dur="50s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </svg>
